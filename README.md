@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**mayenuddin93/mayenuddin93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mayenuddin606/mayenuddin606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
